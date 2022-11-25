@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\AEA\source\repos\DIP_Gui\DIP_Gui\MyForm.cpp(6,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generating Code...
+D:\A\OpenCv\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+D:\A\OpenCv\opencv\build\include\opencv2\core\cuda.inl.hpp(487): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DIP_Gui.vcxproj -> C:\Users\AEA\source\repos\DIP_Gui\x64\Release\DIP_Gui.exe

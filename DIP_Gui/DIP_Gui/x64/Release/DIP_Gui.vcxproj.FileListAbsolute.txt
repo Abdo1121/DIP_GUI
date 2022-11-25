@@ -1,0 +1,4 @@
+C:\Users\AEA\source\repos\DIP_Gui\DIP_Gui\x64\Release\DIP_Gui.vcxproj.AssemblyReference.cache
+C:\Users\AEA\source\repos\DIP_Gui\DIP_Gui\x64\Release\DIP_Gui.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\AEA\source\repos\DIP_Gui\DIP_Gui\x64\Release\DIPGui.MyForm.resources
+C:\Users\AEA\source\repos\DIP_Gui\DIP_Gui\x64\Release\DIP_Gui.vcxproj.GenerateResource.cache
